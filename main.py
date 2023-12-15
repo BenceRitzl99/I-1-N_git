@@ -1,1 +1,1 @@
-print("Hárpmszö területszámítás")
+print("Háromszög területszámítása")
